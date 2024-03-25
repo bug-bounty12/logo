@@ -1,2 +1,1 @@
-# logo
-Mergify Logo
+This is Hackerone Bug Bounty Test
